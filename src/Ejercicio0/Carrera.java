@@ -23,7 +23,7 @@ package Ejercicio0;
                 System.out.println(nombreCoche +" ha avanzado "+ distanciaRecorrida);
             } catch (InterruptedException e) {
                 e.printStackTrace();
-                System.out.println("Error" + e.getMessage());
+                System.out.println("Error");
             }
 
         }
