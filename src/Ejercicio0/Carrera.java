@@ -11,7 +11,7 @@ package Ejercicio0;
         this.nombreCoche=nombreCoche;
         this.velocidad=velocidad;
         this.distanciaTotal=distanciaTotal;
-        this.distanciaRecorrida = 0;
+        this.distanciaRecorrida = 0
     }
 
      @Override
